@@ -1,0 +1,6 @@
+truck_name,fixed_cost,per_mile_cost,capacity
+Sparrow,75.0,2.5,60
+Falcon,110.0,3.0,90
+Osprey,150.0,2.75,130
+Condor,200.0,2.0,175
+Albatross,275.0,2.25,250
